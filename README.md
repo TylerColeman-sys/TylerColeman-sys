@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TylerColeman-sys
 - 👀 I’m interested in coding projects and securing an intership
-- 🌱 I’m currently learning Data Systems using Java
+- 🌱 I’m currently learning Data Systems
 - 💞️ I’m looking to collaborate on nothing for now...
 - 📫 How to reach me tycole9903@gmail.com
 - 😄 Pronouns: He/Him
